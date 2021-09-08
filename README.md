@@ -12,6 +12,8 @@
   <div>
     <a href = "mailto:lynnyker.rangell23@gmail.com"><img src="http://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-     <a href = "https://www.instagram.com/lynnyker41/" target="_blank"><img src="http://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+     <a href = "https://www.instagram.com/lynnyker41/" target="_blank"><img src="http://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href = "https://www.linkedin.com/in/lynnyker-rangell-74b961199/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </div>
